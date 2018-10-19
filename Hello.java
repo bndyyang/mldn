@@ -1,6 +1,6 @@
 public class Hello{
 	
 	public static void main(String[] args){
-		System.out.println("www.youku.com!");
+		System.out.println("www.wangyi.com!");
 	}
 }
